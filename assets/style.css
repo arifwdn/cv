@@ -1,0 +1,34 @@
+/* width */
+body::-webkit-scrollbar {
+    width: 10px;
+}
+
+/* Track */
+body::-webkit-scrollbar-track {
+    background: #f1f1f1;
+}
+
+/* Handle */
+body::-webkit-scrollbar-thumb {
+    background: #888;
+    border-radius: 10px;
+}
+
+/* Handle on hover */
+body::-webkit-scrollbar-thumb:hover {
+    background: #555;
+}
+
+body {
+    margin: auto;
+    background-color: #dadada;
+}
+
+.image {
+    content: url('cvAing.jpg');
+    width: 80%;
+    margin: auto;
+    border-radius: 15px;
+    padding: 10px;
+    box-shadow: 1px 1px 10px black;
+}
