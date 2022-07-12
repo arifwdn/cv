@@ -22,13 +22,16 @@ body::-webkit-scrollbar-thumb:hover {
 body {
     margin: auto;
     background-color: #dadada;
+    display: flex;
+    align-items: center;
 }
 
 .image {
     content: url('cvAing.jpg');
-    width: 80%;
-    margin: auto;
+    height: 90vh;
+    margin: 10px auto;
     border-radius: 15px;
-    padding: 10px;
+    padding: 5px;
     box-shadow: 1px 1px 10px black;
+    background-color: white;
 }
