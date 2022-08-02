@@ -1,2 +1,2 @@
 # cv
->Buka link CV [disini](http://github.io/cv)
+>Buka link CV [disini](http://arifwdn.github.io/cv)
